@@ -27,3 +27,5 @@ Features
 - Units vs Load comparison
 - Top areas analysis
 - Interactive filters (Circle, Division)
+
+- ![Dashboard](dashboard.png)
